@@ -1,4 +1,5 @@
 # Bash_Script_App_Install
+Bash script that installs some common applications on a MacOS machine silently
 # Instructions
 1. Create empty text file to house your script
 
